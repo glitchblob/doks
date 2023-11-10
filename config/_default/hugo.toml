@@ -1,5 +1,5 @@
-title = "My Docs"
-baseurl = "/"
+title = "🏠"
+baseurl = "https://www.johnbaker.xyz/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
